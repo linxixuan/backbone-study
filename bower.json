@@ -1,0 +1,26 @@
+{
+  "name": "backbone-study",
+  "main": "index.js",
+  "version": "0.01",
+  "authors": [
+    "linxixuan <zmx.morgan@gmail.com>"
+  ],
+  "description": "nothing",
+  "keywords": [
+    "bacbone",
+    "todos"
+  ],
+  "license": "MIT",
+  "homepage": "zmx.im",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.2.1",
+    "jquery": "~2.1.4"
+  }
+}
